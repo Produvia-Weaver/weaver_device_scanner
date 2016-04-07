@@ -13,7 +13,7 @@
   - Scan and remember devices and services inside the network (including BLE devices)
   - Scan behind IoT hubs (such as philips hue or Lightify zigbee hubs)
    
-##### Weaver Device Scanner Use cases:
+##### Weaver Device Scanner use-cases:
 ###### Weaver Device scanner provides a crazy amount of usecases you can implement. For example:
   - Check if a device is disconnected
   - Quickly find IPs and MACs
