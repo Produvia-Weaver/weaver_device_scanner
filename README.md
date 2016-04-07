@@ -1,5 +1,5 @@
 # Weaver Device Scanner and Android SDK
-![WeaverDeviceScanner](https://lh3.googleusercontent.com/-r5k2wEjSqZ0RC83Jaee9P5o2xZ7i_Q9ujlYS8qNLGwLzdS6skgKlSXtJjutApEPm38=w300-rw)
+<img src="https://lh3.googleusercontent.com/-r5k2wEjSqZ0RC83Jaee9P5o2xZ7i_Q9ujlYS8qNLGwLzdS6skgKlSXtJjutApEPm38=w300-rw">
 ##### Weaver Device Scanner is a device and service scanner reference application
 ##### powered by the [Weaver SDK]
 
