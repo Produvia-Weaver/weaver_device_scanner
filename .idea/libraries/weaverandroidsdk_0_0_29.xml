@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="weaverandroidsdk-0.0.29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/produvia.com.weaverandroidsdk/weaverandroidsdk/0.0.29/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/produvia.com.weaverandroidsdk/weaverandroidsdk/0.0.29/libs/eprServer.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/produvia.com.weaverandroidsdk/weaverandroidsdk/0.0.29/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/produvia.com.weaverandroidsdk/weaverandroidsdk/0.0.29/abce9f8aad053eeee3a8b27dd7a10c7b7598285/weaverandroidsdk-0.0.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
