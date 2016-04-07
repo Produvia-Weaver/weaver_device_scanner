@@ -1,5 +1,5 @@
 # Weaver Device Scanner and Android SDK
-<img src="https://lh3.googleusercontent.com/-r5k2wEjSqZ0RC83Jaee9P5o2xZ7i_Q9ujlYS8qNLGwLzdS6skgKlSXtJjutApEPm38=w300-rw">
+<img height=128 width=128 src="https://lh3.googleusercontent.com/-r5k2wEjSqZ0RC83Jaee9P5o2xZ7i_Q9ujlYS8qNLGwLzdS6skgKlSXtJjutApEPm38=w300-rw">
 ##### Weaver Device Scanner is a device and service scanner reference application
 ##### powered by the [Weaver SDK]
 
@@ -22,8 +22,8 @@
 
 
 
-##### [Checkout Weaver Device Scanner at Google Play] 
-![Weaver Device Scanner Image1](https://lh3.googleusercontent.com/68K9Y-_mBabn1huNFA_wXBBfuYAUn_Dj0w9U2Qd98FICW4aR-EbzCMLNmeK8_uJg5moq=h310-rw) ![Weaver Device Scanner Image2](https://lh3.googleusercontent.com/IjeB_veSjMgXiCnwTbQgvUNqxE77fv0bVKSBW-x4e4MhNkRI5VcJOAH6r_xY_1aEb-fa=h900-rw) ![Weaver Device Scanner Image3](https://lh3.googleusercontent.com/8ABu_y9PuqbCaul6jprdfYI-O00XacE90EgcBMsNsQlABS01fsfHxZixIldo39eifKQ=h900-rw) 
+##### [Checkout Weaver Device Scanner at Google Play]
+<img height=512 src="https://lh3.googleusercontent.com/IjeB_veSjMgXiCnwTbQgvUNqxE77fv0bVKSBW-x4e4MhNkRI5VcJOAH6r_xY_1aEb-fa=h900-rw" >  <img height=512  src="https://lh3.googleusercontent.com/8ABu_y9PuqbCaul6jprdfYI-O00XacE90EgcBMsNsQlABS01fsfHxZixIldo39eifKQ=h900-rw">
 
 ### How To Use Weaver SDK
 - Simply add the android SDK library to your build.gradle
