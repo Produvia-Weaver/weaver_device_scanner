@@ -23,7 +23,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             style="@style/SubtitleText"
-            android:text="Welcome to Weaver Lights"
+            android:text="Welcome to Weaver Device Scanner"
             android:layout_gravity="center_horizontal"
             android:layout_margin="10dp"
             android:gravity="center_horizontal" />
