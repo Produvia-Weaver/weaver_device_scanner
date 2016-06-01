@@ -27,7 +27,7 @@
 
 ### How To Use Weaver SDK
 - Simply add the android SDK library to your build.gradle
-- [Join our beta program] to receive your Weaver-SDK API KEY
+- [Sign up] to receive your Weaver-SDK API KEY - check out our [getting started video]
 - Also checkout the [Android Documentation]
 
 
@@ -56,7 +56,8 @@ The Weaver Device Scanner app is distributed under the MIT License
 
 
    [JSON API]: <http://weavingthings.com/weaver-sdk-reference/>
-   [Join our beta program]: <https://produvia-net.com/developers>
+   [Sign up]: <https://produvia-net.com/developers>
+   [getting started video]: <https://youtu.be/2O-vDnG4PZk>
    [Android Documentation]: <http://weavingthings.com/weaver-sdk-reference/>
    [Weaver SDK]: <http://weavingthings.com>
    [Checkout Weaver Device Scanner at Google Play]: <https://play.google.com/store/apps/details?id=produvia.com.scanner&hl=en>
